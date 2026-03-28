@@ -4,5 +4,5 @@ import { defineConfig } from "vite"
 // https://vite.dev/config/
 export default defineConfig(({ mode }) => ({
 	plugins: [react()],
-	base: mode === "production" ? "/test-vxconsult/" : "/",
+	base: mode === "production" ? "/vxconsult-test/" : "/",
 }))

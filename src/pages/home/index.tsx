@@ -69,7 +69,7 @@ export default function Home() {
 				<Typography variant="caption" color="text.secondary">
 					Desenvolvido por nikit0
 				</Typography>
-				<IconButton disableRipple href="https://github.com/nikit0/test-vxconsult" target="_blank" sx={{ color: "text.secondary" }}>
+				<IconButton disableRipple href="https://github.com/nikit0/vxconsult-test" target="_blank" sx={{ color: "text.secondary" }}>
 					<GitHub fontSize="small" />
 				</IconButton>
 			</Box>
